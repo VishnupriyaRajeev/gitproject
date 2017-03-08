@@ -1,0 +1,4 @@
+mv $swap $swap1
+cat $swap1
+
+
