@@ -1,5 +1,2 @@
-hloooooo
-git add hii.txt
-
-git status
+hlo hw r uu
 
