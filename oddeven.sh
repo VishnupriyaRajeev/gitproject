@@ -13,7 +13,7 @@ if [$c -eq 0 ]
 then
 evsum=`expr $evsum + $num`
 else
-odsum='expr $odsum + $num`
+odsum=`expr $odsum + $num`
 fi
 alsum=`expr $i + $num`
 i=`expr $i + 1`
